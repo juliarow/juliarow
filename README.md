@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# heyyyy
+# My name is Julia Rowniewski and I'm a second year Cybersecurity + Politics, Philosophy, and Economics Student @ Northeastern University!
